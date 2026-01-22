@@ -1,43 +1,43 @@
 <div align="center">
 
-<!-- Hero Section -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/xinjie.png" alt="Avatar" width="130" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 20px rgba(0,0,0,0.1);">
-
 # 苟新节 (XinJie)
 
 **全栈开发工程师 • 技术探索者 • 终身学习者**
 
-专注于构建高性能、易用的 Web 应用程序。深耕 React/Vue 生态，对 Node.js/Python 后端开发及 DevOps 工程也有浓厚兴趣。
-
-持之以恒，静水流深。
-
----
+<p align="center">
+  <em>专注于构建高性能、易用的 Web 应用程序</em><br>
+  <em>深耕 React/Vue 生态，对 Node.js/Python 后端开发及 DevOps 工程也有浓厚兴趣</em><br>
+  <strong>持之以恒，静水流深 💧</strong>
+</p>
 
 <!-- Quick Stats -->
-<table>
+<table align="center">
 <tr>
-<td align="center">
-<strong style="font-size: 2em;">5+</strong><br>
-<sub>工作年限</sub>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="50"/><br>
+<h3>5+</h3>
+<strong>工作年限</strong>
 </td>
-<td align="center">
-<strong style="font-size: 2em;">50+</strong><br>
-<sub>技术沉淀</sub>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
+<h3>50+</h3>
+<strong>技术沉淀</strong>
 </td>
-<td align="center">
-<strong style="font-size: 2em;">300+</strong><br>
-<sub>发布文章</sub>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/blog.png" width="50"/><br>
+<h3>300+</h3>
+<strong>发布文章</strong>
 </td>
-<td align="center">
-<strong style="font-size: 2em;">+∞</strong><br>
-<sub>学习热情</sub>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/infinity.png" width="50"/><br>
+<h3>+∞</h3>
+<strong>学习热情</strong>
 </td>
 </tr>
 </table>
 
 </div>
 
----
 
 ## 🧩 技能概览
 
@@ -51,7 +51,6 @@
 ![Docker](https://img.shields.io/badge/Docker%20%2F%20Nginx-80%25-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-76%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
 ## 💻 技术清单
 
@@ -140,7 +139,6 @@
 ![文心一言](https://img.shields.io/badge/文心一言%20(ERNIE)-2932E1?style=flat-square)
 ![通义千问](https://img.shields.io/badge/通义千问-00A1E9?style=flat-square)
 
----
 
 ## 📈 成长足迹
 
@@ -153,7 +151,6 @@
 **2019.07 - 2022.05** | 初级前端工程师 @ 软件服务公司
 在快速迭代的环境中负责 UI 落地及业务交互开发，积累了深厚的原生 JS/CSS 功底。
 
----
 
 ## 📫 与我相关
 
@@ -167,7 +164,6 @@
 
 </div>
 
----
 
 <div align="center">
 
