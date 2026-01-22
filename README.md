@@ -5,32 +5,32 @@
 **全栈开发工程师 • 技术探索者 • 终身学习者**
 
 <p align="center">
-  <em>专注于构建高性能、易用的 Web 应用程序</em><br>
-  <em>深耕 React/Vue 生态，对 Node.js/Python 后端开发及 DevOps 工程也有浓厚兴趣</em><br>
-  <strong>持之以恒，静水流深 💧</strong>
+  专注于构建高性能、易用的 Web 应用程序<br>
+  深耕 React/Vue 生态，对 Node.js/Python 后端开发及 DevOps 工程也有浓厚兴趣<br>
+  持之以恒，静水流深 💧
 </p>
 
 <!-- Quick Stats -->
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="30%">
 <img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="50"/><br>
-<h3>5+</h3>
+<h3 style="margin: 5px 0;">5+</h3>
 <strong>工作年限</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="30%">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
-<h3>50+</h3>
+<h3 style="margin: 5px 0;">50+</h3>
 <strong>技术沉淀</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="30%">
 <img src="https://img.icons8.com/fluency/96/000000/blog.png" width="50"/><br>
-<h3>300+</h3>
+<h3 style="margin: 5px 0;">300+</h3>
 <strong>发布文章</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="30%">
 <img src="https://img.icons8.com/fluency/96/000000/infinity.png" width="50"/><br>
-<h3>+∞</h3>
+<h3 style="margin: 5px 0;">+∞</h3>
 <strong>学习热情</strong>
 </td>
 </tr>
