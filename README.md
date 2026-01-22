@@ -13,24 +13,24 @@
 <!-- Quick Stats -->
 <table align="center">
 <tr>
-<td align="center" width="30%">
+<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="50"/><br>
-<h3 style="margin: 5px 0;">5+</h3>
+<strong>5+</strong>
 <strong>工作年限</strong>
 </td>
-<td align="center" width="30%">
+<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br>
-<h3 style="margin: 5px 0;">50+</h3>
+<strong>50+</strong>
 <strong>技术沉淀</strong>
 </td>
-<td align="center" width="30%">
+<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/blog.png" width="50"/><br>
-<h3 style="margin: 5px 0;">300+</h3>
+<strong>300+</strong>
 <strong>发布文章</strong>
 </td>
-<td align="center" width="30%">
+<td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/infinity.png" width="50"/><br>
-<h3 style="margin: 5px 0;">+∞</h3>
+<strong>+∞</strong>
 <strong>学习热情</strong>
 </td>
 </tr>
