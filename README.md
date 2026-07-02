@@ -1,9 +1,8 @@
-
 <h1 align="center"> Hi there, I'm XinJie (苟新节) 👋</h1>
 <h3 align="center">全栈开发工程师 • 技术探索者 • 终身学习者</h3>
 
 <p align="center">
-  专注于构建高性能、易用的 Web 应用程序。深耕 React/Vue 生态，对 Node.js/Python 后端开发及 DevOps 工程也有浓厚兴趣。<br>
+  专注于构建高性能、易用的 Web 应用程序。前端深耕 React/Vue 生态，同时涉猎 Node.js、Python 后端及 DevOps 工程化实践。<br>
   <b>持之以恒，静水流深。</b>
 </p>
 
@@ -12,15 +11,13 @@
   <a href="https://gitee.com/gou-xinjie"><img src="https://img.shields.io/badge/Gitee-开源项目-C71D23?style=flat-square&logo=gitee&logoColor=white" alt="Gitee"></a>
 </p>
 
-
 <div align="center">
 
-| 💼 工作年限 | 📚 技术沉淀 | ✍️ 发布文章 | 🔥 学习热情 |
-| :---: | :---: | :---: | :---: |
-| **5+** | **50+** | **[300+](https://blog.csdn.net/qq_43886365?type=blog)** | **+∞** |
+| 💼 工作年限 | 📚 技术沉淀 | ✍️ 发布文章 | 🚀 开源项目 | 🔥 学习热情 |
+| :---: | :---: | :---: | :---: | :---: |
+| **5+** | **50+** | **[300+](https://blog.csdn.net/qq_43886365?type=blog)** | **20+** | **+∞** |
 
 </div>
-
 
 <h2 align="left">技术清单</h2>
 
@@ -98,6 +95,16 @@
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square" />
 </p>
 
+<h2 align="left">我的在线项目</h2>
+
+| 项目 | 描述 | 部署路径 | 启动方式 | 状态 | 备注 | 端口 | 访问 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **blog** | 我的博客系统 | /var/www/blog | 自动化 | 正常运行 | GitHub Actions 自动部署 | 本地 80 | [gouxinjie.com](http://gouxinjie.com) |
+| **Prompt Gallery** | 基于 Next.js + Supabase 的画廊应用 | /var/www/prompt | PM2 | 正常运行 | GitHub Actions 自动部署 | 5173 | [prompt.gouxinjie.com](http://prompt.gouxinjie.com) |
+| **archive** | 基于 Nuxt4 + SQLite 的个人档案项目 | /var/www/archive | PM2 | 正常运行 | GitHub Actions 自动部署 | 3000 | [archive.gouxinjie.com](http://archive.gouxinjie.com) |
+| **compress-imgs** | 基于 TinyPNG API 的 Python Web 单体项目 | /var/www/compress-imgs | 自动化 | 正常运行 | GitHub Actions 自动部署 | 8000 | [compress-imgs.gouxinjie.com](http://compress-imgs.gouxinjie.com) |
+| **codeview** | 基于 Node.js + React 的前后端分离项目 | /var/www/codeview | Docker | 正常运行 | GitHub Actions + Docker 镜像自动部署 | 8000 | [codeview.gouxinjie.com](http://codeview.gouxinjie.com) |
+| **flow-calendar** | 青柠日历（Lime Calendar），以月历为核心的轻量生活记录 H5 工具 | /var/www/flow-calendar | PM2 → Next.js Standalone | 正常运行 | GitHub Actions push main 触发构建 → rsync → PM2 热重载 | 3400 | [flow-calendar.gouxinjie.com](http://flow-calendar.gouxinjie.com) |
 
 <h2 align="left">成长足迹</h2>
 
@@ -107,7 +114,6 @@
   > 负责多个小程序及后台管理平台的从零到一开发，深度参与产品设计与技术方案评审。
 - **2019.07 - 2022.05** | **初级前端工程师 @ 软件服务公司**
   > 在快速迭代的环境中负责 UI 落地及业务交互开发，积累了深厚的原生 JS/CSS 功底。
-
 
 <h2 align="left">与我联系</h2>
 
@@ -121,7 +127,6 @@
   </a>
 </p>
 
-
 <p align="center">
-  <i>最近更新于：2026年1月</i>
+  <i>最近更新于：2026年7月</i>
 </p>
