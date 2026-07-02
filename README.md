@@ -97,14 +97,14 @@
 
 <h2 align="left">我的在线项目</h2>
 
-| 项目 | 描述 | 部署路径 | 启动方式 | 状态 | 备注 | 端口 | 访问 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **blog** | 我的博客系统 | /var/www/blog | 自动化 | 正常运行 | GitHub Actions 自动部署 | 本地 80 | [gouxinjie.com](http://gouxinjie.com) |
-| **Prompt Gallery** | 基于 Next.js + Supabase 的画廊应用 | /var/www/prompt | PM2 | 正常运行 | GitHub Actions 自动部署 | 5173 | [prompt.gouxinjie.com](http://prompt.gouxinjie.com) |
-| **archive** | 基于 Nuxt4 + SQLite 的个人档案项目 | /var/www/archive | PM2 | 正常运行 | GitHub Actions 自动部署 | 3000 | [archive.gouxinjie.com](http://archive.gouxinjie.com) |
-| **compress-imgs** | 基于 TinyPNG API 的 Python Web 单体项目 | /var/www/compress-imgs | 自动化 | 正常运行 | GitHub Actions 自动部署 | 8000 | [compress-imgs.gouxinjie.com](http://compress-imgs.gouxinjie.com) |
-| **codeview** | 基于 Node.js + React 的前后端分离项目 | /var/www/codeview | Docker | 正常运行 | GitHub Actions + Docker 镜像自动部署 | 8000 | [codeview.gouxinjie.com](http://codeview.gouxinjie.com) |
-| **flow-calendar** | 青柠日历（Lime Calendar），以月历为核心的轻量生活记录 H5 工具 | /var/www/flow-calendar | PM2 → Next.js Standalone | 正常运行 | GitHub Actions push main 触发构建 → rsync → PM2 热重载 | 3400 | [flow-calendar.gouxinjie.com](http://flow-calendar.gouxinjie.com) |
+| 项目 | 描述 | 状态 | 备注 | 访问 |
+| :--- | :--- | :--- | :--- | :--- |
+| **blog** | 我的博客系统 | 正常运行 | GitHub Actions 自动部署 | [gouxinjie.com](http://gouxinjie.com) |
+| **Prompt Gallery** | 基于 Next.js + Supabase 的画廊应用 | 正常运行 | GitHub Actions 自动部署 | [prompt.gouxinjie.com](http://prompt.gouxinjie.com) |
+| **archive** | 基于 Nuxt4 + SQLite 的个人档案项目 | 正常运行 | GitHub Actions 自动部署 | [archive.gouxinjie.com](http://archive.gouxinjie.com) |
+| **compress-imgs** | 基于 TinyPNG API 的 Python Web 单体项目 | 正常运行 | GitHub Actions 自动部署 | [compress-imgs.gouxinjie.com](http://compress-imgs.gouxinjie.com) |
+| **codeview** | 基于 Node.js + React 的前后端分离项目 | 正常运行 | GitHub Actions + Docker 镜像自动部署 | [codeview.gouxinjie.com](http://codeview.gouxinjie.com) |
+| **flow-calendar** | 青柠日历（Lime Calendar），以月历为核心的轻量生活记录 H5 工具 | 正常运行 | GitHub Actions push main 触发构建 → rsync → PM2 热重载 | [flow-calendar.gouxinjie.com](http://flow-calendar.gouxinjie.com) |
 
 <h2 align="left">成长足迹</h2>
 
