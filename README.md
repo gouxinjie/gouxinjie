@@ -119,7 +119,7 @@
 
 | 项目 | 描述 | 状态 | 备注 | 访问 |
 | :--- | :--- | :--- | :--- | :--- |
-| **blog** | 记录每个真实项目的踩坑、决策和复盘——不追热点，写自己验证过的东西 | 正常运行 | GitHub Actions 自动部署 | [gouxinjie.com](http://blog.gouxinjie.com) |
+| **blog** | 个人博客平台；记录每个真实项目的踩坑、决策和复盘——不追热点，写自己验证过的东西 | 正常运行 | GitHub Actions 自动部署 | [gouxinjie.com](http://blog.gouxinjie.com) |
 | **mylab** | 个人技术与项目展示网站（Next.js 14 + React 18，中英双语、作品归档、AI 笔记与 GitHub 数据看板） | 正常运行 | GitHub Actions 自动部署（standalone 镜像 → 阿里云 ACR → Docker Compose 滚动更新） | [www.gouxinjie.com](http://gouxinjie.com) |
 | **Prompt Gallery** | 一个支持管理、展示和投稿 AI 图片生成提示词的完整平台。 | 正常运行 | GitHub Actions 自动部署 | [prompt.gouxinjie.com](http://prompt.gouxinjie.com) |
 | **deepxinjie** | 企业级 AI 聊天网站（React + FastAPI + MySQL 8，流式对话、深度思考、联网搜索、IndexedDB 秒开） | 正常运行 | GitHub Actions 自动部署（Docker Compose 三容器 + ACR 镜像 + 滚动更新） | [chat.gouxinjie.com](http://chat.gouxinjie.com) |
