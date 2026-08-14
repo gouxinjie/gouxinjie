@@ -15,7 +15,7 @@
 
 | 💼 工作年限 | 📚 技术沉淀 | ✍️ 发布文章 | 🚀 开源项目 | 🔥 学习热情 |
 | :---: | :---: | :---: | :---: | :---: |
-| **6+** | **50+** | **[300+](https://blog.csdn.net/qq_43886365?type=blog)** | **20+** | **+∞** |
+| **6+** | **50+** | **[440+](https://blog.csdn.net/qq_43886365?type=blog)** | **20+** | **+∞** |
 
 </div>
 
@@ -119,12 +119,12 @@
 
 | 项目 | 描述 | 状态 | 备注 | 访问 |
 | :--- | :--- | :--- | :--- | :--- |
-| **blog** | 我的博客系统 | 正常运行 | GitHub Actions 自动部署 | [gouxinjie.com](http://gouxinjie.com) |
-| **Prompt Gallery** | 基于 Next.js + Supabase 的画廊应用 | 正常运行 | GitHub Actions 自动部署 | [prompt.gouxinjie.com](http://prompt.gouxinjie.com) |
-| **archive** | 基于 Nuxt4 + SQLite 的个人档案项目 | 正常运行 | GitHub Actions 自动部署 | [archive.gouxinjie.com](http://archive.gouxinjie.com) |
-| **compress-imgs** | 基于 TinyPNG API 的 Python Web 单体项目 | 正常运行 | GitHub Actions 自动部署 | [compress-imgs.gouxinjie.com](http://compress-imgs.gouxinjie.com) |
-| **codeview** | 基于 Node.js + React 的前后端分离项目 | 正常运行 | GitHub Actions + Docker 镜像自动部署 | [codeview.gouxinjie.com](http://codeview.gouxinjie.com) |
-| **flow-calendar** | 青柠日历（Lime Calendar），以月历为核心的轻量生活记录 H5 工具 | 正常运行 | GitHub Actions push main 触发构建 → rsync → PM2 热重载 | [flow-calendar.gouxinjie.com](http://flow-calendar.gouxinjie.com) |
+| **blog** | 记录每个真实项目的踩坑、决策和复盘——不追热点，写自己验证过的东西 | 正常运行 | GitHub Actions 自动部署 | [gouxinjie.com](http://blog.gouxinjie.com) |
+| **mylab** | 个人技术与项目展示网站（Next.js 14 + React 18，中英双语、作品归档、AI 笔记与 GitHub 数据看板） | 正常运行 | GitHub Actions 自动部署（standalone 镜像 → 阿里云 ACR → Docker Compose 滚动更新） | [www.gouxinjie.com](http://gouxinjie.com) |
+| **Prompt Gallery** | 一个支持管理、展示和投稿 AI 图片生成提示词的完整平台。 | 正常运行 | GitHub Actions 自动部署 | [prompt.gouxinjie.com](http://prompt.gouxinjie.com) |
+| **deepxinjie** | 企业级 AI 聊天网站（React + FastAPI + MySQL 8，流式对话、深度思考、联网搜索、IndexedDB 秒开） | 正常运行 | GitHub Actions 自动部署（Docker Compose 三容器 + ACR 镜像 + 滚动更新） | [chat.gouxinjie.com](http://chat.gouxinjie.com) |
+| **codeview** | 一个面向个人开发者的 GitHub 项目数据可视化产品，将数据沉淀为可持续查看的可视化经营面板。 | 正常运行 | GitHub Actions + Docker 镜像自动部署 | [codeview.gouxinjie.com](http://codeview.gouxinjie.com) |
+| **archive** | 一个本地优先的私人资料管理系统，集中保存和管理账号密码、文档资料、简历文件、图片、证件和学习资料。 | 正常运行 | GitHub Actions 自动部署 | [archive.gouxinjie.com](http://archive.gouxinjie.com) |
 
 <h2 align="left">成长足迹</h2>
 
